@@ -92,10 +92,10 @@ function smile_prompt
     if [ "$?" -eq "0" ]
     then
         #smiley
-        SC="${GREEN}:)"
+        SC="${BGREEN}:)"
     else
         #frowney
-        SC="${RED}:("
+        SC="${RED} :("
     fi
     if [ $UID -eq 0 ]
     then
@@ -111,7 +111,7 @@ function smile_prompt
     RC="${BWHITE}"
     #default color
     DF='\[\e[0m\]'
-    PS1="[${UC}\u${RC}@${HC}\h ${RC}\W${DF}] ${SC}${DF} ->${WHITE}"
+    PS1="${UC}\u${RC}@${HC}\h ${RC}[\W] ${SC}${DF} > ${WHITE}"
 }
 unset color_prompt force_color_prompt
 
