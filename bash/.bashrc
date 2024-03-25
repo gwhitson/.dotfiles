@@ -167,5 +167,5 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
-wal -R
+wal -R >/dev/null
 bash ~/.config/tmux/sessionizer.sh
