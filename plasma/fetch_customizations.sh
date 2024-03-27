@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cfgfile="~/.config/.dotfiles/plasma/config-"
+cfgfile="/home/gavin/.config/.dotfiles/plasma/config-"
 cfgfile+=$(printf '%(%Y-%m-%d)T' -1)
 
 echo $cfgfile
