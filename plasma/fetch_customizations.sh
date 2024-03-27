@@ -15,6 +15,7 @@ cp -r ~/.config/kwinrulesrc $cfgfile
 cp -r ~/.config/kwinrc $cfgfile
 cp -r ~/.config/khotkeysrc $cfgfile
 cp -r ~/.config/kglobalshortcutsrc $cfgfile
+cp -r ~/.config/sakura $cfgfile
 
 git add *
 git commit -a -m 'saved configuration'

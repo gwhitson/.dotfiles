@@ -5,32 +5,6 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 [ActionPlugins][1]
 RightButton;NoModifier=org.kde.contextmenu
 
-[Containments][1]
-ItemGeometries-1920x1080=
-ItemGeometriesHorizontal=
-activityId=6a19a740-4967-4d0f-9c41-ef661badf873
-formfactor=0
-immutability=1
-lastScreen=0
-location=0
-plugin=org.kde.plasma.folder
-wallpaperplugin=org.kde.image
-
-[Containments][1][ConfigDialog]
-DialogHeight=540
-DialogWidth=720
-
-[Containments][1][Configuration]
-PreloadWeight=10
-
-[Containments][1][General]
-ToolBoxButtonState=topcenter
-ToolBoxButtonX=559
-
-[Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///home/gavin/Downloads/nebula-hd_wallpapers.jpg
-SlidePaths=/usr/share/plasma/wallpapers,/usr/share/wallpapers
-
 [Containments][2]
 activityId=
 formfactor=2
@@ -128,6 +102,20 @@ PreloadWeight=10
 [Containments][2][General]
 AppletOrder=3;22;5;7;30;6;17
 
+[Containments][31]
+ItemGeometries-1280x800=
+ItemGeometriesHorizontal=
+activityId=5fab4f87-261e-4dcf-ae1a-dfcf88d5cfd8
+formfactor=0
+immutability=1
+lastScreen=0
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][31][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/Next/contents/images/1920x1080.jpg
+
 [Containments][8]
 activityId=
 formfactor=2
@@ -221,9 +209,9 @@ DialogWidth=720
 PreloadWeight=10
 
 [Containments][8][General]
-extraItems=org.kde.kdeconnect,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.keyboardlayout,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.manage-inputmethod,org.kde.kupapplet,org.kde.plasma.volume,org.kde.plasma.devicenotifier,org.kde.kscreen,org.kde.plasma.networkmanagement
+extraItems=org.kde.kdeconnect,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.keyboardlayout,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.manage-inputmethod,org.kde.kupapplet,org.kde.plasma.volume,org.kde.plasma.devicenotifier,org.kde.kscreen
 hiddenItems=ibus-ui-gtk3,org.kde.plasma.keyboardlayout,org.kde.kdeconnect,org.kde.kupapplet,org.kde.plasma.clipboard,org.kde.plasma.manage-inputmethod,org.kde.plasma.bluetooth,org.kde.kscreen,org.kde.plasma.devicenotifier,flameshot
-knownItems=org.kde.kdeconnect,org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.keyboardlayout,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.kupapplet,org.kde.plasma.networkmanagement
+knownItems=org.kde.kdeconnect,org.kde.plasma.notifications,org.kde.plasma.bluetooth,org.kde.plasma.mediacontroller,org.kde.plasma.keyboardlayout,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.clipboard,org.kde.plasma.volume,org.kde.plasma.manage-inputmethod,org.kde.kupapplet
 shownItems=org.kde.plasma.battery,org.kde.plasma.volume,chrome_status_icon_1
 
 [Containments2Appletsts][5][Configuration][General]
