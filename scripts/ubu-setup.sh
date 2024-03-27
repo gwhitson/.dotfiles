@@ -9,7 +9,10 @@ sudo apt install python3-pip -y
 sudo apt install tmux -y
 sudo pip install pywal
 sudo snap install nvim --classic
+sudo apt install kde-plasma-desktop -y
+sudo apt install plasma-nm -y
 
+ echo "InputMethod=" | sudo tee -a '/etc/sddm.conf'
 
 git clone https://github.com/gwhitson/.dotfiles ~/.config/.dotfile
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm

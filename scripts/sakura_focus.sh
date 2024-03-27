@@ -1,8 +1,9 @@
 #!/bin/bash
-wmctrl -l | grep -a "0x05400003"
+wmctrl -l | grep -e '\ $'
 
 if [ $? -eq 0 ] ; then
-    wmctrl -i -a "0x05400003"
+    t1=$(wmctrl -l | grep -e '\ $' | awk '{print $1}')
+    wmctrl -i -a $t1
 else
     /usr/bin/sakura
 fi
