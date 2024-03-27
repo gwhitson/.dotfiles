@@ -7,7 +7,6 @@ echo $cfgfile
 mkdir $cfgfile
 
 cp -r ~/.config/systemsettingsrc $cfgfile
-cp -r ~/.config/ $cfgfile
 cp -r ~/.config/plasmashellrc $cfgfile
 cp -r ~/.config/plasmarc $cfgfile
 cp -r ~/.config/plasma-org.kde.plasma.desktop-appletsrc $cfgfile
