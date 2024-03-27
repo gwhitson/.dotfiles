@@ -1,5 +1,5 @@
 [KFileDialog Settings]
-Recent Files[$e]=Downloads/photo-1462332420958-a05d1e002413.jpg,file:$HOME/Downloads/nebula-hd_wallpapers.jpg,file:$HOME/Downloads/0f003dd4ccc82ad8ce6cb0cb2f9436aa.jpeg,file:$HOME/Downloads/photo-1462332420958-a05d1e002413.avif,file:$HOME/Downloads/photo-1462332420958-a05d1e002413.jpg
+Recent Files[$e]=Downloads/photo-1462332420958-a05d1e002413.jpg,file:$HOME/.config/.dotfiles/backgrounds/2.jpg,file:$HOME/Downloads/0f003dd4ccc82ad8ce6cb0cb2f9436aa.jpeg,file:$HOME/Downloads/photo-1462332420958-a05d1e002413.avif,file:$HOME/Downloads/photo-1462332420958-a05d1e002413.jpg
 Recent URLs[$e]=file:$HOME/
 detailViewIconSize=16
 
@@ -13,9 +13,6 @@ panelOpacity=2
 panelVisibility=1
 
 [PlasmaViews][Panel 2][Defaults]
-thickness=40
-
-[PlasmaViews][Panel 2][Horizontal1280]
 thickness=40
 
 [PlasmaViews][Panel 2][Horizontal1920]
