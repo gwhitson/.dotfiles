@@ -15,7 +15,13 @@ cp -r ~/.config/kwinrulesrc $cfgfile
 cp -r ~/.config/kwinrc $cfgfile
 cp -r ~/.config/khotkeysrc $cfgfile
 cp -r ~/.config/kglobalshortcutsrc $cfgfile
+cp -r ~/.config/KDE $cfgfile
+cp -r ~/.config/kdeflobals $cfgfile
+cp -r ~/.config/kded5rc $cfgfile
+cp -r ~/.config/kconf_updaterc $cfgfile
+cp -r ~/.config/kactivitymanagerdrc $cfgfile
 cp -r ~/.config/sakura $cfgfile
+cp -r ~/.kde $cfgfile
 
 git add *
 git commit -a -m 'saved configuration'
