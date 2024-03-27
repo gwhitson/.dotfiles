@@ -95,7 +95,7 @@ function smile_prompt
         SC="${BGREEN}:)"
     else
         #frowney
-        SC="${RED} :("
+        SC="${RED}:("
     fi
     if [ $UID -eq 0 ]
     then
