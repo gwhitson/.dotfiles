@@ -28,7 +28,7 @@ ToolBoxButtonState=topcenter
 ToolBoxButtonX=559
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=/home/gavin/.config/.dotfiles/backgrounds/2.jpg
+Image=file:///home/gavin/.config/.dotfiles/backgrounds/2.jpg
 SlidePaths=/usr/share/plasma/wallpapers,/usr/share/wallpapers
 
 [Containments][2]
@@ -63,7 +63,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][3][Configuration]
-PreloadWeight=81
+PreloadWeight=92
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true
@@ -115,7 +115,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][7][Configuration]
-PreloadWeight=46
+PreloadWeight=29
 SystrayContainmentId=8
 
 [Containments][2][ConfigDialog]
@@ -168,6 +168,9 @@ plugin=org.kde.plasma.volume
 [Containments][8][Applets][14][Configuration]
 PreloadWeight=0
 
+[Containments][8][Applets][14][Configuration][General]
+globalMute=true
+
 [Containments][8][Applets][15]
 immutability=1
 plugin=org.kde.plasma.manage-inputmethod
@@ -204,7 +207,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][31][Configuration]
-PreloadWeight=18
+PreloadWeight=0
 
 [Containments][8][Applets][9]
 immutability=1
