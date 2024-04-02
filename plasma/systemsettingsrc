@@ -5,10 +5,12 @@ detailViewIconSize=16
 
 [MainWindow]
 MenuBar=Disabled
+RestorePositionForNextInstance=false
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAQbAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 eDP-1 Height 1920x1080=1051
 eDP-1 Width 1920x1080=1920
+eDP-1 Window-Maximized 1920x1080=true
 eDP-1 XPosition 1920x1080=0
 eDP-1 YPosition 1920x1080=29
 

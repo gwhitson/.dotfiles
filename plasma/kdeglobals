@@ -140,6 +140,7 @@ BrowserApplication=firefox_firefox.desktop
 ColorSchemeHash=bcce7c1c6181c5e14e633cd8301e7a9036b67ac6
 TerminalApplication=sakura
 TerminalService=sakura.desktop
+UseSystemBell=true
 
 [KDE]
 LookAndFeelPackage=org.kde.breezedark.desktop
@@ -148,7 +149,7 @@ SingleClick=false
 [KFileDialog Settings]
 Allow Expansion=false
 Automatically select filename extension=true
-Breadcrumb Navigation=true
+Breadcrumb Navigation=false
 Decoration position=2
 LocationCombo Completionmode=5
 PathCombo Completionmode=5
@@ -157,10 +158,10 @@ Show Full Path=false
 Show Inline Previews=true
 Show Preview=false
 Show Speedbar=true
-Show hidden files=true
-Sort by=Name
+Show hidden files=false
+Sort by=Date
 Sort directories first=true
-Sort reversed=false
+Sort reversed=true
 Speedbar Width=138
 View Style=DetailTree
 

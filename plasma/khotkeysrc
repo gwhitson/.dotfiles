@@ -1048,6 +1048,7 @@ ColorScheme[$d]
 ColorSchemeHash[$d]
 TerminalApplication[$d]
 TerminalService[$d]
+UseSystemBell[$d]
 
 [Gestures]
 Disabled=true
