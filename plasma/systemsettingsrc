@@ -1,0 +1,24 @@
+[KFileDialog Settings]
+Recent Files[$e]=sakura_focus.sh,file:$HOME/.config/.dotfiles/scripts/focuses/sakura_focus.sh,file:$HOME/.config/.dotfiles/backgrounds/2.jpg
+Recent URLs[$e]=file:$HOME/.config/.dotfiles/scripts/,file:$HOME/,file:$HOME/.config/.dotfiles/backgrounds/,file:$HOME/.config/.dotfiles/scripts/focuses/
+detailViewIconSize=16
+
+[MainWindow]
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Virtual1 XPosition 1920x1080=450
+Virtual1 YPosition 1920x1080=204
+eDP-1 Height 1920x1080=1051
+eDP-1 Width 1920x1080=1920
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition 1920x1080=0
+eDP-1 YPosition 1920x1080=29
+
+[Open-with settings]
+CompletionMode=1
+History=/home/gavin/.config/.dotfiles/scripts/sakura_focus.sh,bitwar,flame
+
+[systemsettings_sidebar_mode]
+HighlightNonDefaultSettings=true
