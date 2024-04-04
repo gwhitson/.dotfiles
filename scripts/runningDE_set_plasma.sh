@@ -1,0 +1,20 @@
+#!/bin/bash
+
+dotfiles="/home/gavin/.config/.dotfiles/plasma"
+running="/home/gavin/.config/.dotfiles/running_DE"
+
+cp -r "$dotfiles/kactivitymanagerdrc" "$running/kactivitymanagerdrc"
+cp -r "$dotfiles/kconf_updaterc" "$running/kconf_updaterc"
+cp -r "$dotfiles/KDE" "$running/KDE"
+cp -r "$dotfiles/kded5rc" "$running/kded5rc"
+cp -r "$dotfiles/kdeglobals" "$running/kdeglobals"
+cp -r "$dotfiles/kglobalshortcutsrc" "$running/kglobalshortcutsrc"
+cp -r "$dotfiles/khotkeysrc" "$running/khotkeysrc"
+cp -r "$dotfiles/kwinrc" "$running/kwinrc"
+cp -r "$dotfiles/kwinrulesrc" "$running/kwinrulesrc"
+cp -r "$dotfiles/plasma-localerc" "$running/plasma-localerc"
+cp -r "$dotfiles/plasma-org.kde.plasma.desktop-appletsrc" "$running/plasma-org.kde.plasma.desktop-appletsrc"
+cp -r "$dotfiles/plasmarc" "$running/plasmarc"
+cp -r "$dotfiles/plasmashellrc" "$running/plasmashellrc"
+cp -r "$dotfiles/sakura" "$running/sakura"
+cp -r "$dotfiles/systemsettingsrc" "$running/systemsettingsrc"

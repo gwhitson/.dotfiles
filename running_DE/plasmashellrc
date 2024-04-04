@@ -1,0 +1,28 @@
+[KFileDialog Settings]
+Recent Files[$e]=Downloads/photo-1462332420958-a05d1e002413.jpg,file:$HOME/.config/.dotfiles/backgrounds/2.jpg,file:$HOME/Downloads/0f003dd4ccc82ad8ce6cb0cb2f9436aa.jpeg,file:$HOME/Downloads/photo-1462332420958-a05d1e002413.avif,file:$HOME/Downloads/photo-1462332420958-a05d1e002413.jpg
+Recent URLs[$e]=file:$HOME/
+detailViewIconSize=16
+
+[KPropertiesDialog]
+eDP-1 Height 1920x1080=453
+eDP-1 Width 1920x1080=410
+
+[PlasmaViews][Panel 2]
+alignment=132
+panelOpacity=2
+panelVisibility=1
+
+[PlasmaViews][Panel 2][Defaults]
+thickness=40
+
+[PlasmaViews][Panel 2][Horizontal1280]
+thickness=40
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=40
+
+[PlasmaViews][Panel 2][Vertical1080]
+thickness=570
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/desktop-base.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js
