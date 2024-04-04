@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cfgfile="/home/gavin/.config/.dotfiles/plasma"
-running="/home/gavin/.config/.dotfiles/running"
+running="/home/gavin/.config/.dotfiles/running_DE"
 
 rm -rf $cfgfile
 cp -r $running $cfgfile
