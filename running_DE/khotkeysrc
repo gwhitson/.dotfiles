@@ -1026,7 +1026,7 @@ Type=SIMPLE_ACTION_DATA
 ActionsCount=1
 
 [Data_4Actions0]
-CommandURL=/home/gavin/.config/.dotfiles/scripts/sakura_focus.sh
+CommandURL=/home/gavin/.config/.dotfiles/scripts/01-focuses/sakura_focus.sh
 Type=COMMAND_URL
 
 [Data_4Conditions]

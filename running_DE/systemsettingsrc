@@ -1,13 +1,15 @@
 [KFileDialog Settings]
-Recent Files[$e]=sakura_focus.sh,file:$HOME/.config/.dotfiles/backgrounds/2.jpg,file:$HOME/.config/.dotfiles/scripts/sakura_focus.sh
-Recent URLs[$e]=file:$HOME/.config/.dotfiles/scripts/,file:$HOME/,file:$HOME/.config/.dotfiles/backgrounds/
+Recent Files[$e]=sakura_focus.sh,file:$HOME/.config/.dotfiles/scripts/focuses/sakura_focus.sh,file:$HOME/.config/.dotfiles/backgrounds/2.jpg
+Recent URLs[$e]=file:$HOME/.config/.dotfiles/scripts/,file:$HOME/,file:$HOME/.config/.dotfiles/backgrounds/,file:$HOME/.config/.dotfiles/scripts/focuses/
 detailViewIconSize=16
 
 [MainWindow]
 MenuBar=Disabled
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAQbAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
+Virtual1 XPosition 1920x1080=450
+Virtual1 YPosition 1920x1080=204
 eDP-1 Height 1920x1080=1051
 eDP-1 Width 1920x1080=1920
 eDP-1 Window-Maximized 1920x1080=true
