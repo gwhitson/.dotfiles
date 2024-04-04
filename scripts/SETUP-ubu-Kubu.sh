@@ -12,6 +12,7 @@ sudo apt install tmux -y
 sudo pip install pywal
 sudo apt install kde-plasma-desktop -y
 sudo apt install plasma-nm -y
+sudo apt install sakura
 sudo snap install nvim --classic
 
  echo "InputMethod=" | sudo tee -a '/etc/sddm.conf'
@@ -19,4 +20,4 @@ sudo snap install nvim --classic
 git clone https://github.com/gwhitson/.dotfiles ~/.config/.dotfiles
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
-bash /home/gavin/.config/.dotfiles/update_plasma.sh
+bash /home/gavin/.config/.dotfiles/scripts/update_plasma.sh
