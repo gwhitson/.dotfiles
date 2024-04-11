@@ -268,6 +268,10 @@ switch to next activity=none,,Switch to Next Activity
 switch to previous activity=none,,Switch to Previous Activity
 toggle do not disturb=none,none,Toggle do not disturb
 
+[sakura.desktop]
+_k_friendly_name=Sakura
+_launch=none,none,Sakura
+
 [systemsettings.desktop]
 _k_friendly_name=System Settings
 _launch=Tools,Tools,System Settings

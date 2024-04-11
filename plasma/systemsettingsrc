@@ -19,5 +19,8 @@ eDP-1 YPosition 1920x1080=29
 CompletionMode=1
 History=/home/gavin/.config/.dotfiles/scripts/sakura_focus.sh,bitwar,flame
 
+[UiSettings]
+ColorScheme=Default
+
 [systemsettings_sidebar_mode]
 HighlightNonDefaultSettings=true
