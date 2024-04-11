@@ -12,3 +12,4 @@ sudo pip install pywal
 sudo apt install kde-plasma-desktop -y
 sudo apt install plasma-nm -y
 sudo snap install nvim --classic
+sudo apt autoremove -f
