@@ -13,6 +13,6 @@ curr=`pwd`
 
 cd $dotfiles
 git add *
-git commit * -m 'saved plasma configuration'
+git commit -a -m 'saved plasma configuration'
 git push
 cd $curr
