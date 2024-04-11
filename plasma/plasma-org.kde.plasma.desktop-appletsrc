@@ -64,7 +64,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][2][Applets][3][Configuration]
-PreloadWeight=59
+PreloadWeight=99
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true
@@ -216,7 +216,7 @@ immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][8][Applets][32][Configuration]
-PreloadWeight=42
+PreloadWeight=26
 
 [Containments][8][Applets][9]
 immutability=1
