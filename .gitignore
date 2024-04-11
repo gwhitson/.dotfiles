@@ -23,5 +23,5 @@ wal/colors-waybar.css
 wal/colors.Xresources
 wal/colors.yml
 wal/sequences
-/running
-running/*
+/running_DE
+running_DE/*
