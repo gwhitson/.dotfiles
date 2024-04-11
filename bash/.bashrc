@@ -107,12 +107,15 @@ function smile_prompt
         UC="${BWHITE}"
     fi
     #hostname color
-    HC="${BYELLOW}"
+    #HC="${BYELLOW}"
+    HC="${BBLUE}"
     #regular color
     RC="${BWHITE}"
+
+    DC="${YELLOW}"
     #default color
     DF='\[\e[0m\]'
-    PS1="${UC}\u${RC}@${HC}\h ${RC}[\W] ${SC}${DF} > ${WHITE}"
+    PS1="${UC}\u${RC}@${HC}\h ${DC}[\W] ${SC}${DF} > ${WHITE}"
 }
 unset color_prompt force_color_prompt
 
@@ -169,5 +172,5 @@ if ! shopt -oq posix; then
   fi
 fi
 bind -f ~/.inputrc
-wal -R >/dev/null
+#wal -R >/dev/null
 bash ~/.config/tmux/sessionizer.sh
