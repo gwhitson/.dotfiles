@@ -173,4 +173,4 @@ if ! shopt -oq posix; then
 fi
 bind -f ~/.inputrc
 #wal -R >/dev/null
-bash ~/.config/tmux/sessionizer.sh
+bash ~/.config/.dotfiles/scripts/tmux/sessionizer.sh
