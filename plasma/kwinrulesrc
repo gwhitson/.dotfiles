@@ -1,10 +1,12 @@
 [$Version]
 update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
 
-[8a512105-2819-42ab-a4e6-0fd357983f29]
-Description=Settings for sakura
-fullscreen=true
-fullscreenrule=3
+[837ca3c6-6d4e-4d25-b14a-32973265f6cd]
+Description=sakura
+maximizehoriz=true
+maximizehorizrule=3
+maximizevert=true
+maximizevertrule=3
 noborder=true
 noborderrule=3
 wmclass=sakura
@@ -12,4 +14,4 @@ wmclassmatch=1
 
 [General]
 count=1
-rules=8a512105-2819-42ab-a4e6-0fd357983f29
+rules=837ca3c6-6d4e-4d25-b14a-32973265f6cd
