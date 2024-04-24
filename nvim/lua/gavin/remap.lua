@@ -13,7 +13,7 @@ vim.keymap.set("n","N","Nzzzv")
 
 vim.keymap.set("x", "<leader>p", "\"_dP")
 
-vim.keymap.set("n","<leader>P",":! git commit -a -m 'update'<CR> :! git push <CR>")
+vim.keymap.set("n","<leader>P",":! git commit -a -m 'automated update of repo'<CR> :! git push <CR>")
 
 vim.keymap.set("n","<C-Y>", ":! less ~/.config/nvim/lua/gavin/remap.lua<cr>")
 
