@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 running="/home/gavin/.config/.dotfiles/running_DE"
 config="/home/gavin/.config"

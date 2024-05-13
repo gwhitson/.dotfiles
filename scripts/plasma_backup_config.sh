@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 cfgfile="/home/gavin/.config/.dotfiles/plasma/config-"
 cfgfile+=$(printf '%(%Y-%m-%d)T' -1)

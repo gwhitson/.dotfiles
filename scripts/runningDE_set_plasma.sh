@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 dotfiles="/home/gavin/.config/.dotfiles/plasma"
 running="/home/gavin/.config/.dotfiles/running_DE"
