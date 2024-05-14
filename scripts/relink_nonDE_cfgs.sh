@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 rm -rf ~/.config/tmux
 rm -rf ~/.config/nvim
 rm -rf ~/.bashrc

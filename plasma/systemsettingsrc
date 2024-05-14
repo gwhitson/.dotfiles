@@ -1,14 +1,19 @@
 [KFileDialog Settings]
-Recent Files[$e]=sakura_focus.sh,file:$HOME/.config/.dotfiles/scripts/focuses/sakura_focus.sh,file:$HOME/.config/.dotfiles/backgrounds/2.jpg
-Recent URLs[$e]=file:$HOME/.config/.dotfiles/scripts/,file:$HOME/,file:$HOME/.config/.dotfiles/backgrounds/,file:$HOME/.config/.dotfiles/scripts/focuses/
+Recent Files[$e]=sakura_focus.sh,file:$HOME/Downloads/AurulentSansMNerdFontMono-Regular.otf,file:$HOME/.config/.dotfiles/backgrounds/2.jpg,file:$HOME/.config/.dotfiles/backgrounds/pfp.jpg
+Recent URLs[$e]=file:$HOME/.config/.dotfiles/scripts/,file:$HOME/,file:$HOME/.config/.dotfiles/backgrounds/,file:$HOME/Documents/,file:$HOME/Desktop/,file:$HOME/Pictures/
 detailViewIconSize=16
 
 [MainWindow]
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQbAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
+Virtual1 Height 1280x800=1051
+Virtual1 Width 1280x800=1920
+Virtual1 Window-Maximized 1280x800=true
 Virtual1 Window-Maximized 1920x1080=true
+Virtual1 XPosition 1280x800=-925
 Virtual1 XPosition 1920x1080=742
+Virtual1 YPosition 1280x800=152
 Virtual1 YPosition 1920x1080=29
 eDP-1 Height 1920x1080=1051
 eDP-1 Width 1920x1080=1920

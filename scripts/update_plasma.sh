@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 scriptsdir="/home/gavin/.config/.dotfiles/scripts"
 
