@@ -15,5 +15,4 @@ cpu_total_cur=$((user+system+nice+softirq+steal+idle+iowait))
 
 cpu_util=$((100*( cpu_active_cur-cpu_active_prev ) / (cpu_total_cur-cpu_total_prev) ))
 
-echo $cpu_util
-
+printf "%02d" $cpu_util
