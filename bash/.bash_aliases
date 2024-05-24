@@ -9,3 +9,4 @@ alias vim='nvim'
 alias clear_nvim_cache='rm ~/.local/nvim/state/swap/*'
 alias fman='compgen -c | \fzf-tmux -p | xargs man'
 alias fzf="fzf-tmux -p --preview 'less {}' | xargs editor"
+dph () { dolphin $(pwd) 2>/dev/null & }
