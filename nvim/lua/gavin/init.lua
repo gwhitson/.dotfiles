@@ -16,16 +16,6 @@ require ('gavin.colors')
 require ('gavin.remap')
 require ('gavin.set')
 
--- nvim-tree is also there in modified buffers so this function filter it out
-local modifiedBufs = function(bufs)
-    local t = 0
-    for k,v in pairs(bufs) do
-        if v.name:match("NvimTree_") == nil then
-            t = t + 1
-        end
-    end
-    return t
-end
 
 --vim.api.nvim_create_autocmd("BufEnter", {
 --  group = vim.api.nvim_create_augroup("NvimTreeClose", {clear = true}),
