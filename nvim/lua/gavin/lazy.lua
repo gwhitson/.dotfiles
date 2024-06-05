@@ -19,6 +19,7 @@ local plugins = {
 	'nvim-treesitter/nvim-treesitter',
 	'nvim-treesitter/playground',
 	'ThePrimeagen/harpoon',
+    'tpope/vim-fugitive',
 	'christoomey/vim-tmux-navigator',
 	{
 		'VonHeikemen/lsp-zero.nvim',

@@ -15,4 +15,4 @@ ln -s ~/.config/.dotfiles/fonts ~/.fonts
 
 # link nvim as editor 
 sudo rm /bin/editor
-sudo ln -s /nvim-linux64/bin/nvim /bin/editor
+sudo ln -s /usr/bin/nvim-linux64/bin/nvim /bin/editor

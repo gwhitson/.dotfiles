@@ -90,7 +90,7 @@ fi
 
 # add .dotfiles scripts dir to path
 export PATH="/home/gavin/.config/.dotfiles/scripts:$PATH"
-export PATH="/nvim-linux64/bin:$PATH"
+export PATH="/usr/bin/nvim-linux64/bin:$PATH"
 export PATH="/usr/local/go/bin:$PATH"
 
 #wal -R >/dev/null
