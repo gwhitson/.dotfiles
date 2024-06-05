@@ -6,7 +6,7 @@ case $- in
 esac
 
 # turn off bell
-xset b off
+xset b off 2>/dev/null
 
 # don't put duplicate lines or lines starting with space in the history.
 HISTCONTROL=ignoreboth
