@@ -1,9 +1,10 @@
 [KFileDialog Settings]
-Recent Files[$e]=sakura_focus.sh,file:$HOME/Downloads/AurulentSansMNerdFontMono-Regular.otf,file:$HOME/.config/.dotfiles/backgrounds/2.jpg,file:$HOME/.config/.dotfiles/backgrounds/pfp.jpg
-Recent URLs[$e]=file:$HOME/.config/.dotfiles/scripts/,file:$HOME/,file:$HOME/.config/.dotfiles/backgrounds/,file:$HOME/Documents/,file:$HOME/Desktop/,file:$HOME/Pictures/
+Recent Files[$e]=sakura_focus.sh,file:$HOME/.config/.dotfiles/backgrounds/6.jpg,file:$HOME/.config/.dotfiles/backgrounds/2.jpg,file:$HOME/.config/.dotfiles/backgrounds/pfp.jpg
+Recent URLs[$e]=file:$HOME/.config/.dotfiles/scripts/,file:$HOME/,file:$HOME/.config/.dotfiles/backgrounds/,file:$HOME/Desktop/,file:$HOME/.Documents/
 detailViewIconSize=16
 
 [MainWindow]
+1920x1080 screen: Window-Maximized=true
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAQbAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled

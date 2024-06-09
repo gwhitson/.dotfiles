@@ -136,8 +136,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [General]
-BrowserApplication=firefox_firefox.desktop
-ColorSchemeHash=bcce7c1c6181c5e14e633cd8301e7a9036b67ac6
+BrowserApplication=firefox-esr.desktop
+ColorSchemeHash=01662607e36cd33eacc7d7d7189f69c26b9a2cc8
 TerminalApplication=sakura
 TerminalService=sakura.desktop
 UseSystemBell=true
@@ -168,6 +168,7 @@ Show Speedbar=true
 Show hidden files=true
 Sort by=Date
 Sort directories first=true
+Sort hidden files last=false
 Sort reversed=true
 Speedbar Width=138
 View Style=DetailTree
